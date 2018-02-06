@@ -6,7 +6,7 @@
  Servo servo4;
 
 void setup() {
-         servo1.attach(5)
+         servo1.attach(5);
          servo2.attach(6);
          servo3.attach(10);
          servo4.attach(7);
